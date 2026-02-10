@@ -1,4 +1,4 @@
-# 📊 Retail Sales & Returns Analysis Dashboard | Excel Project
+#  Retail Sales & Returns Analysis Dashboard | Excel Project
 
 ##  Objective
 To analyze retail sales and return performance using interactive Excel dashboards and provide actionable business insights for better business decision-making.
