@@ -116,7 +116,8 @@ This dashboard provides a complete overview of sales performance including:
 - Interactive slicers for Region and Year  
 - Dynamic page navigation  
 
----
+---![image alt](image_url)https://github.com/shailygupta-05/retail_sales_analysis_dashboard_excel/blob/main/Sales%20Analysis%20Dashboard.png?raw=true
+
 
 ##  Return Analysis Dashboard
 
