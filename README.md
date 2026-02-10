@@ -104,7 +104,7 @@ The following steps were performed to build this project:
 ---
 
 ##  Sales Performance Dashboard
-
+![image alt](https://github.com/shailygupta-05/retail_sales_analysis_dashboard_excel/blob/c2f8ba5abe744a95f9bf6115f2fbb6a7681631e7/Sales%20Analysis%20Dashboard.png)
 
 This dashboard provides a complete overview of sales performance including:
 
@@ -116,11 +116,10 @@ This dashboard provides a complete overview of sales performance including:
 - Interactive slicers for Region and Year  
 - Dynamic page navigation  
 
-![image alt](https://github.com/shailygupta-05/retail_sales_analysis_dashboard_excel/blob/c2f8ba5abe744a95f9bf6115f2fbb6a7681631e7/Sales%20Analysis%20Dashboard.png)
 
 
 ##  Return Analysis Dashboard
-
+![image alt](https://github.com/shailygupta-05/retail_sales_analysis_dashboard_excel/blob/821e5d710ee4415b5911d77547307c3f96e09279/Return%20Analysis%20Dashboard.png)
 
 This dashboard focuses on analyzing product returns including:
 
@@ -143,12 +142,12 @@ This dashboard focuses on analyzing product returns including:
 **1. Top Performing Categories**
 
 - **Technology**  
-  - Sales: **$836K**  
-  - Profit: **$145.5K**
+  - Sales: **836K**  
+  - Profit: **145.5K**
 
 - **Furniture**  
-  - Sales: **$742K**  
-  - Profit: **$18.5K**
+  - Sales: **742K**  
+  - Profit: **18.5K**
 
  Although Furniture is the second highest revenue-generating category, its profit is extremely low compared to Technology, indicating a major profitability issue.
 
@@ -156,8 +155,8 @@ This dashboard focuses on analyzing product returns including:
 
 **2. Best Performing Subcategories**
 
-- Phones: **$330K**  
-- Chairs: **$328K**
+- Phones: **330K**  
+- Chairs: **328K**
 
 These two subcategories are the biggest revenue drivers.
 
@@ -165,9 +164,9 @@ These two subcategories are the biggest revenue drivers.
 
 **3. Top Performing States**
 
-- California: **$458K**  
-- New York: **$311K**  
-- Texas: **$170K**
+- California: **458K**  
+- New York: **311K**  
+- Texas: **170K**
 
  These three states together generate **approximately one-third of total revenue**, making them the most critical markets.
 
