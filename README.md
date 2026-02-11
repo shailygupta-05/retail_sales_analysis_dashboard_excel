@@ -46,35 +46,28 @@ This project solves these problems by building structured and interactive Excel 
 ---
 #  DATASET
 
-**Dataset Used:** Sample Superstore Dataset  
-**Domain:** Retail / E-Commerce  
-**Data Type:** Transactional Sales Data  
+Dataset Used: Sample Superstore Dataset  
+Domain: Retail / E-Commerce  
+Data Type: Transactional Sales Data  
 
 The dataset includes:
-
 - Order details  
-- Sales and profit values  
 - Product categories and subcategories  
 - Regional and customer information  
 - Product return details  
-
 The dataset was already clean and structured, so no additional transformation was required.
 
 ---
 #  TOOLS & TECHNOLOGIES
-
 - Microsoft Excel  
 - Power Query  
 - Power Pivot  
 - Pivot Tables  
 - DAX (Data Analysis Expressions)  
 - Charts and Slicers  
-
 ---
 #  METHODS & STEPS PERFORMED
-
 The following workflow was followed:
-
 1. Imported dataset into Excel  
 2. Verified data quality (already clean)  
 3. Created relationships using Power Pivot  
@@ -84,15 +77,11 @@ The following workflow was followed:
    - KPIs  
    - Charts  
    - Slicers  
-7. Implemented **dynamic page navigation**  
+7. Implemented dynamic page navigation  
 8. Generated business insights  
-
 ---
-
 #  DASHBOARD
-
 ---
-
 ##  SALES PERFORMANCE DASHBOARD
 ![image alt](https://github.com/shailygupta-05/retail_sales_analysis_dashboard_excel/blob/21ede9b0f3ea4d046bdb4cab0f00d8fdeb70fe3c/images/Sales%20Analysis%20Dashboard.png)
 
@@ -105,14 +94,12 @@ The following workflow was followed:
 - Sales vs Profit Comparison  
 - Interactive slicers  
 - Dynamic page navigation  
-
 ---
 
 ##  RETURN ANALYSIS DASHBOARD
 ![image alt](https://github.com/shailygupta-05/retail_sales_analysis_dashboard_excel/blob/9dff1e5e835291c51e722c3f7dc496ee54d44391/images/Return%20Analysis%20Dashboard.png))
 
 ### Includes Visuals:
-
 - KPIs: Customers, Orders, Returns, Return Rate  
 - Top Returned Products  
 - Return Rate by Region  
@@ -120,92 +107,30 @@ The following workflow was followed:
 - Return Rate by Category  
 - Interactive slicers  
 - Navigation to Sales Dashboard  
-
 ---
 
 #  BUSINESS INSIGHTS & KEY FINDINGS
 
----
-##  SALES ANALYSIS INSIGHTS
-
-### Top Performing Categories
-
-- **Technology – Sales: 836K, Profit: 145.5K**  
-- **Furniture – Sales: 742K, Profit: 18.5K**
- 
- Furniture has high sales but very low profit compared to Technology, indicating a major profitability issue.
+-**Technology** and **Furniture** has high sales but **Furniture** has very low profit compared to Technology, indicating a major profitability issue.(**Furniture – Sales: 742K, Profit: 18.5K**)
+- **Phones and Chairs** are the biggest revenue drivers.( **Phones: 330K | Chairs: 328K**)
+- **California**,**New York** and **Texas** are generating **approximately one-third of total revenue**, making them critical markets.(**California: $458K | New York: 311K | Texas: 170K**)
+- Peak sales occur between **September to December**  -  Clear seasonal demand toward year-end.
+- **West Region** contributes more than half of total returns - This region needs immediate operational focus.
+- **Same-Day and First-Class**  shipping have the highest return rates - Faster delivery options face more fulfillment issues.
+- Some products repeatedly appear in return lists - Indicates possible quality problems, description mismatch, or customer expectation gaps.
 
 ---
 
-### Best Performing Subcategories
-- **Phones: 330K | Chairs: 328K**
- 
- Phones and Chairs are the biggest revenue drivers.
-
----
-### Top Performing States
-
-- **California: $458K | New York: 311K | Texas: 170K**
- 
-These three states generate **approximately one-third of total revenue**, making them critical markets.
-
----
-### Sales Trend Observation
-
-- Peak sales occur between **September to December**  
-
-Clear seasonal demand toward year-end.
-
----
-##  RETURN ANALYSIS INSIGHTS
-
-### Returns by Region
-
-- **West Region contributes more than half of total returns**
-
- This region needs immediate operational focus.
-
----
-### Returns by Ship Mode
-
-- **Same-Day and First-Class shipping have the highest return rates**
-
- Faster delivery options face more fulfillment issues.
-
----
-### Returns by Products
-
-- Some products repeatedly appear in return lists
-
- Indicates possible quality problems, description mismatch, or customer expectation gaps.
-
----
 #  BUSINESS RECOMMENDATIONS
----
-## 1. Improve Furniture Profitability
-- Review pricing strategies  
-- Reduce excessive discounts  
-- Optimize supply chain costs  
-- Analyze margin structure  
+1. **Improve Furniture Profitability**-  
+ Review pricing strategies  , Reduce excessive discounts  and Optimize supply chain costs
+2. **Leverage Peak Sales Months**-
+- Plan promotions for Sep–Dec  , Increase inventory before peak season  and Strengthen marketing campaigns 
+3. **Reduce West Region Returns**-
+- Investigate root causes  , Improve packaging and quality checks and Monitor customer feedback  
+4. **Improve Fast Shipping Operations**-
+- Strengthen pre-dispatch quality checks , Improve packing standards  and Reduce rushed order errors  
 
----
-## 2. Leverage Peak Sales Months
-- Plan promotions for Sep–Dec  
-- Increase inventory before peak season  
-- Strengthen marketing campaigns  
-- Improve logistics planning  
-
----
-## 3. Reduce West Region Returns
-- Investigate root causes  
-- Improve packaging and quality checks  
-- Monitor customer feedback  
-
----
-## 4. Improve Fast Shipping Operations
-- Strengthen pre-dispatch quality checks  
-- Improve packing standards  
-- Reduce rushed order errors  
 ---
 
 #  HOW TO RUN THIS PROJECT
@@ -232,9 +157,9 @@ The dashboards provide actionable insights to improve revenue, profitability, an
 
 #  AUTHOR & CONTACT
 
-**Name:** Shaily Gupta  
-**Email:** shailygupta2529@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/shailygupta05/
+**Name**: Shaily Gupta  
+**Email**: shailygupta2529@gmail.com  
+**LinkedIn**: https://www.linkedin.com/in/shailygupta05/
 
 ---
 
