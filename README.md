@@ -94,8 +94,7 @@ The following workflow was followed:
 ---
 
 ##  SALES PERFORMANCE DASHBOARD
-
-![Sales Analysis Dashboard](Sales Analysis Dashboard.png)
+![image alt](https://github.com/shailygupta-05/retail_sales_analysis_dashboard_excel/blob/21ede9b0f3ea4d046bdb4cab0f00d8fdeb70fe3c/images/Sales%20Analysis%20Dashboard.png)
 
 ### Includes Visuals:
 
