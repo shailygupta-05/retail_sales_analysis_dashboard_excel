@@ -85,7 +85,7 @@ The following workflow was followed:
 ---
 
 ###  RETURN ANALYSIS DASHBOARD
-![image alt](https://github.com/shailygupta-05/retail_sales_analysis_dashboard_excel/blob/9dff1e5e835291c51e722c3f7dc496ee54d44391/images/Return%20Analysis%20Dashboard.png))
+![image alt](https://github.com/shailygupta-05/retail_sales_analysis_dashboard_excel/blob/9dff1e5e835291c51e722c3f7dc496ee54d44391/images/Return%20Analysis%20Dashboard.png)
 
 ### Includes Visuals:
 - KPIs: Customers, Orders, Returns, Return Rate  
